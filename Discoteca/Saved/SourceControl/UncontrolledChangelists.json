@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/Whitebox.umap",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/Box_63256D72.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/CubeGridToolOutput_009E3510.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/CubeGridToolOutput_125386C1.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/CubeGridToolOutput_382CCA3D.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/CubeGridToolOutput_71E6E5E4.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/CubeGridToolOutput_87F1AA59.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/CubeGridToolOutput_8A82D9E5.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/CubeGridToolOutput_8BCBDEF8.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/CubeGridToolOutput_90F80DDC.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/CubeGridToolOutput_AB719F69.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/CubeGridToolOutput_ADF327F2.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/CubeGridToolOutput_E73FB509.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/Rectangle_F6FAEF1D.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/Stairs_07EE3B91.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/Stairs_BDF0A7A2.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/Stairs_C53E3E30.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/Stairs_C6729601.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/Stairs_D68114D1.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/Stairs_EE2DB40B.uasset",
+				"D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/Stairs_F62BDC27.uasset"
+			]
+		}
+	]
+}
