@@ -5466,3 +5466,152 @@ Script Stack (0 frames) :
 [2026.02.19-20.35.49:232][675]LogSavePackage: Moving output files for package: /Game/Discoteca/Scenes/_GENERATED/User/SalaDisco
 [2026.02.19-20.35.49:233][675]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/SalaDisco80463E8C4F6C7096E26BC28F59B801D2.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/SalaDisco.uasset'
 [2026.02.19-20.35.49:234][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Discoteca/Scenes/_GENERATED/User/Stairs_BDF0A7A2] ([1] browsable assets)...
+[2026.02.19-20.35.49:244][675]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Discoteca/Scenes/_GENERATED/User/Stairs_BDF0A7A2.Stairs_BDF0A7A2]
+[2026.02.19-20.35.49:244][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Scenes/_GENERATED/User/Stairs_BDF0A7A2]
+[2026.02.19-20.35.49:247][675]LogSavePackage: Moving output files for package: /Game/Discoteca/Scenes/_GENERATED/User/Stairs_BDF0A7A2
+[2026.02.19-20.35.49:248][675]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Stairs_BDF0A7A21317EE0046B16A56E8BB76AE6CE5453A.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/Stairs_BDF0A7A2.uasset'
+[2026.02.19-20.35.49:250][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Discoteca/Scenes/_GENERATED/User/Stairs_D68114D1] ([1] browsable assets)...
+[2026.02.19-20.35.49:258][675]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Discoteca/Scenes/_GENERATED/User/Stairs_D68114D1.Stairs_D68114D1]
+[2026.02.19-20.35.49:258][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Scenes/_GENERATED/User/Stairs_D68114D1]
+[2026.02.19-20.35.49:263][675]LogSavePackage: Moving output files for package: /Game/Discoteca/Scenes/_GENERATED/User/Stairs_D68114D1
+[2026.02.19-20.35.49:263][675]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Stairs_D68114D14EB220F7412D37F876C976AF7B930525.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/Stairs_D68114D1.uasset'
+[2026.02.19-20.35.49:266][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Discoteca/Scenes/_GENERATED/User/Vestivul] ([1] browsable assets)...
+[2026.02.19-20.35.49:280][675]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Discoteca/Scenes/_GENERATED/User/Vestivul.Vestivul]
+[2026.02.19-20.35.49:280][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Scenes/_GENERATED/User/Vestivul]
+[2026.02.19-20.35.49:280][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Discoteca/Scenes/_GENERATED/User/Vestivul" FILE="D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/Vestivul.uasset" SILENT=true
+[2026.02.19-20.35.49:283][675]LogSavePackage: Moving output files for package: /Game/Discoteca/Scenes/_GENERATED/User/Vestivul
+[2026.02.19-20.35.49:283][675]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Vestivul79E4CE904E4FD0D07244CAB0F577AA04.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/_GENERATED/User/Vestivul.uasset'
+[2026.02.19-20.35.49:297][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 227.891 ms (total: 4.90 sec)
+[2026.02.19-20.35.49:368][675]LogContentValidation: Display: Starting to validate 11 assets
+[2026.02.19-20.35.49:368][675]LogContentValidation: Enabled validators:
+[2026.02.19-20.35.49:368][675]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-20.35.49:368][675]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-20.35.49:368][675]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-20.35.49:368][675]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-20.35.49:368][675]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-20.35.49:368][675]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-20.35.49:368][675]AssetCheck: /Game/Discoteca/Scenes/_GENERATED/User/Box_3E660E64 Validating asset
+[2026.02.19-20.35.49:368][675]AssetCheck: /Game/Discoteca/Scenes/_GENERATED/User/Box_80E90B85 Validating asset
+[2026.02.19-20.35.49:368][675]AssetCheck: /Game/Discoteca/Scenes/_GENERATED/User/Box_C6650021 Validating asset
+[2026.02.19-20.35.49:368][675]AssetCheck: /Game/Discoteca/Scenes/_GENERATED/User/CubeGridToolOutput_142BB4D4 Validating asset
+[2026.02.19-20.35.49:368][675]AssetCheck: /Game/Discoteca/Scenes/_GENERATED/User/CubeGridToolOutput_382CCA3D Validating asset
+[2026.02.19-20.35.49:368][675]AssetCheck: /Game/Discoteca/Scenes/_GENERATED/User/CubeGridToolOutput_DCD095E9 Validating asset
+[2026.02.19-20.35.49:374][675]AssetCheck: /Game/Discoteca/Scenes/_GENERATED/User/Lavabos Validating asset
+[2026.02.19-20.35.49:374][675]AssetCheck: /Game/Discoteca/Scenes/_GENERATED/User/SalaDisco Validating asset
+[2026.02.19-20.35.49:374][675]AssetCheck: /Game/Discoteca/Scenes/_GENERATED/User/Stairs_BDF0A7A2 Validating asset
+[2026.02.19-20.35.49:374][675]AssetCheck: /Game/Discoteca/Scenes/_GENERATED/User/Stairs_D68114D1 Validating asset
+[2026.02.19-20.35.49:374][675]AssetCheck: /Game/Discoteca/Scenes/_GENERATED/User/Vestivul Validating asset
+[2026.02.19-20.36.28:088][ 48]Cmd: TRANSACTION UNDO
+[2026.02.19-20.36.28:088][ 48]LogEditorTransaction: Undo Move Elements
+[2026.02.19-20.36.29:114][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-20.36.29:167][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Discoteca/Scenes/Whitebox" FILE="D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/Whitebox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.19-20.36.29:207][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.02.19-20.36.29:220][ 87]LogSavePackage: Moving output files for package: /Game/Discoteca/Scenes/Whitebox
+[2026.02.19-20.36.29:221][ 87]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Whitebox2D7DE7EC43F0C22F771F82AB91C2BD51.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/Whitebox.umap'
+[2026.02.19-20.36.29:232][ 87]LogFileHelpers: Saving map 'Whitebox' took 0.065
+[2026.02.19-20.36.29:255][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.362 ms (total: 5.04 sec)
+[2026.02.19-20.36.29:315][ 87]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-20.36.29:315][ 87]LogContentValidation: Enabled validators:
+[2026.02.19-20.36.29:315][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-20.36.29:315][ 87]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-20.36.29:315][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-20.36.29:315][ 87]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-20.36.29:315][ 87]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-20.36.29:315][ 87]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-20.36.29:315][ 87]AssetCheck: /Game/Discoteca/Scenes/Whitebox Validating asset
+[2026.02.19-20.36.31:108][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.02.19-20.36.35:035][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-20.36.35:101][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Discoteca/Scenes/Whitebox" FILE="D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/Whitebox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.19-20.36.35:142][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.19-20.36.35:155][331]LogSavePackage: Moving output files for package: /Game/Discoteca/Scenes/Whitebox
+[2026.02.19-20.36.35:156][331]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/WhiteboxE43EB2CC4E707833BE57F08E201F528A.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/Whitebox.umap'
+[2026.02.19-20.36.35:165][331]LogFileHelpers: Saving map 'Whitebox' took 0.065
+[2026.02.19-20.36.35:175][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.407 ms (total: 5.18 sec)
+[2026.02.19-20.36.35:234][331]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-20.36.35:234][331]LogContentValidation: Enabled validators:
+[2026.02.19-20.36.35:234][331]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-20.36.35:234][331]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-20.36.35:234][331]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-20.36.35:234][331]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-20.36.35:234][331]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-20.36.35:234][331]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-20.36.35:235][331]AssetCheck: /Game/Discoteca/Scenes/Whitebox Validating asset
+[2026.02.19-20.36.35:975][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.02.19-20.36.36:028][374]LogStall: Shutdown...
+[2026.02.19-20.36.36:028][374]LogStall: Shutdown complete.
+[2026.02.19-20.36.36:071][374]LogSlate: Window 'Discoteca - Unreal Editor' being destroyed
+[2026.02.19-20.36.36:224][374]Cmd: QUIT_EDITOR
+[2026.02.19-20.36.36:224][375]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.02.19-20.36.36:228][375]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.02.19-20.36.36:228][375]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.02.19-20.36.36:228][375]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.02.19-20.36.36:230][375]LogWorld: UWorld::CleanupWorld for Whitebox, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-20.36.36:233][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-20.36.36:243][375]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.02.19-20.36.36:243][375]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.02.19-20.36.36:252][375]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-20.36.36:252][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-20.36.36:256][375]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-20.36.36:256][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-20.36.36:259][375]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-20.36.36:259][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-20.36.36:262][375]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-20.36.36:262][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-20.36.36:265][375]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-20.36.36:265][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-20.36.36:268][375]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-20.36.36:269][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-20.36.36:274][375]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-20.36.36:274][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-20.36.36:277][375]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-20.36.36:277][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-20.36.36:280][375]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-20.36.36:280][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-20.36.36:284][375]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.02.19-20.36.36:287][375]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.02.19-20.36.36:287][375]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.02.19-20.36.36:287][375]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.02.19-20.36.37:072][375]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.02.19-20.36.37:072][375]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.02.19-20.36.37:072][375]LogAudio: Display: Audio Device unregistered from world 'Whitebox'.
+[2026.02.19-20.36.37:072][375]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.02.19-20.36.37:072][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.02.19-20.36.37:076][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.02.19-20.36.37:090][375]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.02.19-20.36.37:090][375]LogAudio: Display: Audio Device Manager Shutdown
+[2026.02.19-20.36.37:091][375]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2026.02.19-20.36.37:096][375]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.02.19-20.36.37:096][375]LogExit: Preparing to exit.
+[2026.02.19-20.36.37:133][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.02.19-20.36.37:145][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:146][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:147][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:147][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:148][375]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.19-20.36.37:424][375]LogEditorDataStorage: Deinitializing
+[2026.02.19-20.36.37:590][375]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.02.19-20.36.37:635][375]LogExit: Editor shut down
+[2026.02.19-20.36.37:641][375]LogExit: Transaction tracking system shut down
+[2026.02.19-20.36.37:852][375]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 4.
+[2026.02.19-20.36.37:876][375]LogExit: Object subsystem successfully closed.
+[2026.02.19-20.36.37:958][375]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.02.19-20.36.39:012][375]LogMemoryProfiler: Shutdown
+[2026.02.19-20.36.39:012][375]LogNetworkingProfiler: Shutdown
+[2026.02.19-20.36.39:012][375]LoadingProfiler: Shutdown
+[2026.02.19-20.36.39:012][375]LogTimingProfiler: Shutdown
