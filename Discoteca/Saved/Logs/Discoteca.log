@@ -3491,3 +3491,262 @@ Sampler Limit: 32
 [2026.03.21-13.16.18:677][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
 [2026.03.21-13.16.18:691][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
 [2026.03.21-13.16.18:704][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.03.21-13.16.48:370][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.21-13.16.48:685][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Discoteca/Scenes/LVL_Disco_Auto1
+[2026.03.21-13.16.48:686][734]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/LVL_Disco_Auto1F4B7A5A645327BAF931F4E95EFA730F8.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Autosaves/Game/Discoteca/Scenes/LVL_Disco_Auto1.umap'
+[2026.03.21-13.16.48:689][734]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Discoteca/Scenes/LVL_Disco' took 0.331
+[2026.03.21-13.16.48:689][734]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.331
+[2026.03.21-13.16.48:690][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_5] ([1] browsable assets)...
+[2026.03.21-13.16.48:784][734]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_5.evidence_marker_5]
+[2026.03.21-13.16.48:784][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_5]
+[2026.03.21-13.16.48:789][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_5_Auto1
+[2026.03.21-13.16.48:789][734]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_5_Auto16B16E1CC4750DE4BBC93429D5E010411.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_5_Auto1.uasset'
+[2026.03.21-13.16.48:791][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_4] ([1] browsable assets)...
+[2026.03.21-13.16.48:824][734]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_4.evidence_marker_4]
+[2026.03.21-13.16.48:824][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_4]
+[2026.03.21-13.16.48:828][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_4_Auto1
+[2026.03.21-13.16.48:828][734]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_4_Auto13142D35A45E87DC9CDBC0B98FE09F95A.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_4_Auto1.uasset'
+[2026.03.21-13.16.48:829][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_6] ([1] browsable assets)...
+[2026.03.21-13.16.48:866][734]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_6.evidence_marker_6]
+[2026.03.21-13.16.48:866][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_6]
+[2026.03.21-13.16.48:872][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_6_Auto1
+[2026.03.21-13.16.48:872][734]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_6_Auto19EDF25494C00953CD3F56FB37F71BE0A.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_6_Auto1.uasset'
+[2026.03.21-13.16.48:873][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_7] ([1] browsable assets)...
+[2026.03.21-13.16.48:907][734]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_7.evidence_marker_7]
+[2026.03.21-13.16.48:907][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_7]
+[2026.03.21-13.16.48:910][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_7_Auto1
+[2026.03.21-13.16.48:910][734]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_7_Auto16BA574ED4E877C4AE08F8BA3E6FEB64E.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_7_Auto1.uasset'
+[2026.03.21-13.16.48:912][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_8] ([1] browsable assets)...
+[2026.03.21-13.16.48:949][734]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_8.evidence_marker_8]
+[2026.03.21-13.16.48:949][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_8]
+[2026.03.21-13.16.48:954][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_8_Auto1
+[2026.03.21-13.16.48:954][734]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_8_Auto1DC0FB3CF4325418EA46C9EA1A03885C6.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_8_Auto1.uasset'
+[2026.03.21-13.16.48:957][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_9] ([1] browsable assets)...
+[2026.03.21-13.16.48:987][734]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_9.evidence_marker_9]
+[2026.03.21-13.16.48:987][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_9]
+[2026.03.21-13.16.48:992][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_9_Auto1
+[2026.03.21-13.16.48:992][734]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_9_Auto1E18F98864ADDA87780EA96BF4073E284.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_9_Auto1.uasset'
+[2026.03.21-13.16.48:995][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_3] ([1] browsable assets)...
+[2026.03.21-13.16.49:004][734]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_3.evidence_marker_3]
+[2026.03.21-13.16.49:004][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_3]
+[2026.03.21-13.16.49:009][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_3_Auto1
+[2026.03.21-13.16.49:009][734]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_3_Auto1B319DA9D4BF6B85847D409BAACE8C85C.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_3_Auto1.uasset'
+[2026.03.21-13.16.49:010][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_1] ([1] browsable assets)...
+[2026.03.21-13.16.49:020][734]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_1.evidence_marker_1]
+[2026.03.21-13.16.49:020][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_1]
+[2026.03.21-13.16.49:024][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_1_Auto1
+[2026.03.21-13.16.49:024][734]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_1_Auto14BEC2D56489E851DCCF3C18E458DDA17.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_1_Auto1.uasset'
+[2026.03.21-13.16.49:026][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_2] ([1] browsable assets)...
+[2026.03.21-13.16.49:034][734]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_2.evidence_marker_2]
+[2026.03.21-13.16.49:034][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_2]
+[2026.03.21-13.16.49:038][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_2_Auto1
+[2026.03.21-13.16.49:038][734]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_2_Auto1145F1B354540913B22060BBB5346D0B7.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_2_Auto1.uasset'
+[2026.03.21-13.16.49:040][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_ALB] ([1] browsable assets)...
+[2026.03.21-13.16.49:042][734]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_ALB.TX_Brushed_Aluminum_01a_ALB]
+[2026.03.21-13.16.49:042][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_ALB]
+[2026.03.21-13.16.49:578][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_ALB_Auto1
+[2026.03.21-13.16.49:578][734]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/TX_Brushed_Aluminum_01a_ALB_Auto31227DEC4A70DEB6BCD598AE3EAE3F4D.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Autosaves/Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_ALB_Auto1.uasset'
+[2026.03.21-13.16.49:580][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/BigaMetall] ([1] browsable assets)...
+[2026.03.21-13.16.49:589][734]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/BigaMetall.BigaMetall]
+[2026.03.21-13.16.49:589][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/BigaMetall]
+[2026.03.21-13.16.49:593][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/BigaMetall_Auto1
+[2026.03.21-13.16.49:593][734]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/BigaMetall_Auto17FDBAF364C679DDEB9EB9DB25D8ECAAA.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Autosaves/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/BigaMetall_Auto1.uasset'
+[2026.03.21-13.16.49:596][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_RMA] ([1] browsable assets)...
+[2026.03.21-13.16.49:598][734]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_RMA.TX_Brushed_Aluminum_01a_RMA]
+[2026.03.21-13.16.49:598][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_RMA]
+[2026.03.21-13.16.50:196][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_RMA_Auto1
+[2026.03.21-13.16.50:196][734]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/TX_Brushed_Aluminum_01a_RMA_AutoF9663C6E4F11EF66BA4CCF8CCF150439.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/Autosaves/Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_RMA_Auto1.uasset'
+[2026.03.21-13.16.50:197][734]LogFileHelpers: Auto-saving content packages took 1.508
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: ================================================
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Total job queries 505, among them cache hits 161 (31.88%), DDC hits 170 (33.66%), Duplicates 11 (2.18%)
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Tracking 333 distinct input hashes that result in 287 distinct outputs (86.19%)
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: RAM used: 191,31 KiB of 1,60 GiB budget. Usage: 0.01%
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Shaders Compiled: 163
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Jobs assigned 163, completed 163 (100%)
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Average time worker was idle: 87.47 s
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Time job spent in pending queue: average 0.72 s, longest 5.40 s
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Job execution time: average 7.20 s, max 19.11 s
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Job life time (pending + execution): average 7.92 s, max 19.31
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Shader code size: average 13,12 KiB, min 4,113 KiB, max 23,383 KiB
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 79.96 s
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Jobs were issued in 103 batches (only local compilation was used), average 1.58 jobs/batch
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Average processing rate: 2.04 jobs/sec
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Total thread time: 335,202 s
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Total thread preprocess time: 13,767 s
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Percentage time preprocessing: 4.11%
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Effective parallelization: 4.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy (compiled    6 times, average 4.30 sec, max 4.96 sec, min 3.73 sec)
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display:        TBasePassCSFCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 4.27 sec, max 4.87 sec, min 3.35 sec)
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: TBasePassCSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    6 times, average 4.23 sec, max 4.75 sec, min 3.66 sec)
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    6 times, average 4.23 sec, max 4.68 sec, min 3.88 sec)
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    6 times, average 4.16 sec, max 4.57 sec, min 3.57 sec)
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy - 7.69% of total time (compiled    6 times, average 4.30 sec, max 4.96 sec, min 3.73 sec)
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display:        TBasePassCSFCachedPointIndirectLightingPolicySkylight - 7.64% of total time (compiled    6 times, average 4.27 sec, max 4.87 sec, min 3.35 sec)
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: TBasePassCSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.58% of total time (compiled    6 times, average 4.23 sec, max 4.75 sec, min 3.66 sec)
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 7.57% of total time (compiled    6 times, average 4.23 sec, max 4.68 sec, min 3.88 sec)
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 7.44% of total time (compiled    6 times, average 4.16 sec, max 4.57 sec, min 3.57 sec)
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: === Material stats ===
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Materials Translated:    211
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Material Translation Only: 0.07 s (33%)
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: Material Cache Hits: 17 (8%)
+[2026.03.21-13.17.15:557][811]LogShaderCompilers: Display: ================================================
+[2026.03.21-13.17.23:109][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.21-13.17.26:411][861]LogSlate: Window 'Save Content' being destroyed
+[2026.03.21-13.17.26:426][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-13.17.26:487][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Discoteca/Scenes/LVL_Disco" FILE="D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/LVL_Disco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.21-13.17.26:535][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.21-13.17.26:875][861]LogSavePackage: Moving output files for package: /Game/Discoteca/Scenes/LVL_Disco
+[2026.03.21-13.17.26:878][861]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/LVL_Disco8053CB2C45C23F09FDF34AB9FA0A78CB.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Scenes/LVL_Disco.umap'
+[2026.03.21-13.17.26:915][861]LogFileHelpers: Saving map 'LVL_Disco' took 0.429
+[2026.03.21-13.17.26:915][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/BigaMetall] ([1] browsable assets)...
+[2026.03.21-13.17.26:915][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/BigaMetall]
+[2026.03.21-13.17.26:919][861]LogSavePackage: Moving output files for package: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/BigaMetall
+[2026.03.21-13.17.26:919][861]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/BigaMetall1BB841A74A383F40802345AECA326CCE.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/BigaMetall.uasset'
+[2026.03.21-13.17.26:921][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_1] ([1] browsable assets)...
+[2026.03.21-13.17.26:921][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_1]
+[2026.03.21-13.17.26:924][861]LogSavePackage: Moving output files for package: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_1
+[2026.03.21-13.17.26:925][861]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_1AC7EE8414B743EB16DBD2C95EFA45C26.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_1.uasset'
+[2026.03.21-13.17.26:927][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_2] ([1] browsable assets)...
+[2026.03.21-13.17.26:927][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_2]
+[2026.03.21-13.17.26:930][861]LogSavePackage: Moving output files for package: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_2
+[2026.03.21-13.17.26:932][861]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_22C61ACB54380BE1E15276F9BD93564B5.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_2.uasset'
+[2026.03.21-13.17.26:934][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_3] ([1] browsable assets)...
+[2026.03.21-13.17.26:934][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_3]
+[2026.03.21-13.17.26:937][861]LogSavePackage: Moving output files for package: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_3
+[2026.03.21-13.17.26:938][861]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_37EF5BF234C48BA9C3FF53EAAB2395632.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_3.uasset'
+[2026.03.21-13.17.26:940][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_4] ([1] browsable assets)...
+[2026.03.21-13.17.26:940][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_4]
+[2026.03.21-13.17.26:943][861]LogSavePackage: Moving output files for package: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_4
+[2026.03.21-13.17.26:943][861]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_4379DC27D4075E4D8F35343B77E220483.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_4.uasset'
+[2026.03.21-13.17.26:947][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_5] ([1] browsable assets)...
+[2026.03.21-13.17.26:947][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_5]
+[2026.03.21-13.17.26:950][861]LogSavePackage: Moving output files for package: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_5
+[2026.03.21-13.17.26:951][861]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_5C94AAA74433C48E756FAAF966F275523.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_5.uasset'
+[2026.03.21-13.17.26:952][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_6] ([1] browsable assets)...
+[2026.03.21-13.17.26:952][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_6]
+[2026.03.21-13.17.26:957][861]LogSavePackage: Moving output files for package: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_6
+[2026.03.21-13.17.26:958][861]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_6D825860643CE1616101D579FCFD6D2DB.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_6.uasset'
+[2026.03.21-13.17.26:961][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_7] ([1] browsable assets)...
+[2026.03.21-13.17.26:961][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_7]
+[2026.03.21-13.17.26:963][861]LogSavePackage: Moving output files for package: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_7
+[2026.03.21-13.17.26:964][861]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_7BBAA132E40337D5A174C4DA76EE2455F.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_7.uasset'
+[2026.03.21-13.17.26:967][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_8] ([1] browsable assets)...
+[2026.03.21-13.17.26:967][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_8]
+[2026.03.21-13.17.26:971][861]LogSavePackage: Moving output files for package: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_8
+[2026.03.21-13.17.26:972][861]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_82B898DFE4AD5DBD33E99D18A25E7F303.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_8.uasset'
+[2026.03.21-13.17.26:975][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_9] ([1] browsable assets)...
+[2026.03.21-13.17.26:975][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_9]
+[2026.03.21-13.17.26:978][861]LogSavePackage: Moving output files for package: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_9
+[2026.03.21-13.17.26:979][861]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/evidence_marker_9CAA507C94F318C1211272A9E9BBFBF20.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_9.uasset'
+[2026.03.21-13.17.26:981][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_ALB] ([1] browsable assets)...
+[2026.03.21-13.17.26:981][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_ALB]
+[2026.03.21-13.17.27:099][861]LogSavePackage: Moving output files for package: /Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_ALB
+[2026.03.21-13.17.27:099][861]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/TX_Brushed_Aluminum_01a_ALBAD7614CD4114965C7EE498A6D993F827.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Texturas/TX_Brushed_Aluminum_01a_ALB.uasset'
+[2026.03.21-13.17.27:101][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_RMA] ([1] browsable assets)...
+[2026.03.21-13.17.27:101][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_RMA]
+[2026.03.21-13.17.27:282][861]LogSavePackage: Moving output files for package: /Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_RMA
+[2026.03.21-13.17.27:282][861]LogSavePackage: Moving 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Saved/TX_Brushed_Aluminum_01a_RMA5ADD86B84BCD35245F4FC0B02ABCD6FC.tmp' to 'D:/Programes/Discoteca_ArtperEntorns/Discoteca/Content/Discoteca/Texturas/TX_Brushed_Aluminum_01a_RMA.uasset'
+[2026.03.21-13.17.27:294][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 868.128 ms (total: 3.98 sec)
+[2026.03.21-13.17.27:378][861]LogStall: Shutdown...
+[2026.03.21-13.17.27:378][861]LogStall: Shutdown complete.
+[2026.03.21-13.17.27:457][861]LogSlate: Window 'Discoteca - Unreal Editor' being destroyed
+[2026.03.21-13.17.27:612][861]LogContentValidation: Display: Starting to validate 13 assets
+[2026.03.21-13.17.27:612][861]LogContentValidation: Enabled validators:
+[2026.03.21-13.17.27:612][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-13.17.27:612][861]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-13.17.27:612][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-13.17.27:612][861]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-13.17.27:612][861]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-13.17.27:612][861]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-13.17.27:613][861]AssetCheck: /Game/Discoteca/Scenes/LVL_Disco Validating asset
+[2026.03.21-13.17.27:613][861]AssetCheck: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/BigaMetall Validating asset
+[2026.03.21-13.17.27:613][861]AssetCheck: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_1 Validating asset
+[2026.03.21-13.17.27:613][861]AssetCheck: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_2 Validating asset
+[2026.03.21-13.17.27:613][861]AssetCheck: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_3 Validating asset
+[2026.03.21-13.17.27:613][861]AssetCheck: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_4 Validating asset
+[2026.03.21-13.17.27:613][861]AssetCheck: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_5 Validating asset
+[2026.03.21-13.17.27:613][861]AssetCheck: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_6 Validating asset
+[2026.03.21-13.17.27:613][861]AssetCheck: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_7 Validating asset
+[2026.03.21-13.17.27:613][861]AssetCheck: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_8 Validating asset
+[2026.03.21-13.17.27:613][861]AssetCheck: /Game/Discoteca/Assets/Prefabs/DressingPrefabs/Internet/evidence_marker_9 Validating asset
+[2026.03.21-13.17.27:613][861]AssetCheck: /Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_ALB Validating asset
+[2026.03.21-13.17.27:614][861]AssetCheck: /Game/Discoteca/Texturas/TX_Brushed_Aluminum_01a_RMA Validating asset
+[2026.03.21-13.17.27:615][861]Cmd: QUIT_EDITOR
+[2026.03.21-13.17.27:615][861]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.21-13.17.27:627][862]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.21-13.17.27:628][862]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.21-13.17.27:628][862]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.21-13.17.27:647][862]LogWorld: UWorld::CleanupWorld for LVL_Disco, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-13.17.27:647][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-13.17.27:675][862]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.21-13.17.27:676][862]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.21-13.17.27:681][862]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-13.17.27:682][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-13.17.27:682][862]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-13.17.27:682][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-13.17.27:682][862]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-13.17.27:682][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-13.17.27:683][862]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-13.17.27:683][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-13.17.27:683][862]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-13.17.27:683][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-13.17.27:683][862]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-13.17.27:683][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-13.17.27:683][862]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-13.17.27:683][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-13.17.27:684][862]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-13.17.27:684][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-13.17.27:684][862]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-13.17.27:684][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-13.17.27:684][862]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-13.17.27:684][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-13.17.27:684][862]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-13.17.27:684][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-13.17.27:684][862]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-13.17.27:684][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-13.17.27:685][862]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.21-13.17.27:692][862]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.03.21-13.17.27:692][862]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.03.21-13.17.27:692][862]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.03.21-13.17.27:747][862]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.21-13.17.27:747][862]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.21-13.17.27:747][862]LogAudio: Display: Audio Device unregistered from world 'LVL_Disco'.
+[2026.03.21-13.17.27:747][862]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.21-13.17.27:747][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.21-13.17.27:749][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.21-13.17.27:757][862]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.21-13.17.27:757][862]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.21-13.17.27:760][862]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.21-13.17.27:760][862]LogExit: Preparing to exit.
+[2026.03.21-13.17.27:783][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.03.21-13.17.28:945][862]LogEditorDataStorage: Deinitializing
+[2026.03.21-13.17.29:016][862]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.21-13.17.29:031][862]LogExit: Editor shut down
+[2026.03.21-13.17.29:033][862]LogExit: Transaction tracking system shut down
+[2026.03.21-13.17.29:121][862]LogExit: Object subsystem successfully closed.
+[2026.03.21-13.17.29:140][862]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.21-13.17.29:382][862]LogMemoryProfiler: Shutdown
+[2026.03.21-13.17.29:382][862]LogNetworkingProfiler: Shutdown
+[2026.03.21-13.17.29:382][862]LoadingProfiler: Shutdown
+[2026.03.21-13.17.29:382][862]LogTimingProfiler: Shutdown
+[2026.03.21-13.17.29:763][862]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.21-13.17.29:801][862]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.21-13.17.29:801][862]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD332EEF-42A2-BBF9-2317-7FA3927D4519%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=86ad40db43884626399af591a9572dce%7C9c1f613e71294d2da03d03f1aba174ea%7C46139fdd-b2fb-47ff-afbe-ab0b93491729&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.21-13.17.30:367][862]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.21-13.17.30:367][862]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.03.21-13.17.30:367][862]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.21-13.17.30:367][862]RenderDocPlugin: plugin has been unloaded.
+[2026.03.21-13.17.30:376][862]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.21-13.17.30:376][862]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.21-13.17.30:376][862]LogPakFile: Destroying PakPlatformFile
+[2026.03.21-13.17.30:672][862]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.21-13.17.30:720][862]LogExit: Exiting.
+[2026.03.21-13.17.31:652][862]Log file closed, 03/21/26 14:17:31
